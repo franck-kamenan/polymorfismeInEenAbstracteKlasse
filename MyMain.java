@@ -14,6 +14,7 @@ public class MyMain
        System.out.println(monCochon.getName());
        System.out.println(monChien.getName());
        MyDog.danse();
+       MyAnimal.danse();
     }
 
 

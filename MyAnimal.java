@@ -22,4 +22,8 @@ public abstract class MyAnimal
     }
     public abstract void move();
     public abstract void makeNoise();
+    public static void danse()
+    {
+        System.out.println("L'animal danse.");
+    }
 }
