@@ -23,4 +23,9 @@ public class MyDog extends MyAnimal
     {
         System.out.println("Le chien fait du bruit.");
     }
+
+    public static void danse()
+    {
+        System.out.println("Le chien danse.");
+    }
 }
